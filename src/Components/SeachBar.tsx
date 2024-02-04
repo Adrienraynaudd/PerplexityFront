@@ -15,6 +15,7 @@ export const SearchBar = () => {
           selection:bg-superDuper selection:text-textMain 
           dark:bg-offsetDark dark:text-textMainDark dark:placeholder-textOffDark 
           bg-background text-textMain placeholder-textOff" placeholder="Ask anything..."></textarea>
+          
           <div className="flex bg-background dark:bg-offsetDark rounded-l-lg col-start-1 row-start-2 -ml-2">
             <SearchBarButton name="Focus" />
             <SearchBarButton name="Attach" />

@@ -13,6 +13,7 @@ export default {
       'borderMainDark': '#3b3b3b',
       'backgroundDark': '#1f1f1d',
       'textMainDark': '#e8e8e6',
+      'offsetPlusDark': '#333331',
       transparent: 'transparent',
       current: 'currentColor',
       black: colors.black,
